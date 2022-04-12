@@ -1,4 +1,7 @@
 # web-a11y
+
+<br><strong>UPDATE: Changes made as requested below.</strong><br><br>
+--<br>
 <br>On the home page:
 <br>Fix the Good morning message. It says goo and iss. 
 <br>
